@@ -11,7 +11,7 @@ const App = () => {
     <div className='container' >
       <Header />
       <div className='users'>
-        <Users />
+        <Users /> 
         <ActiveUsers />
       </div>
       <div className='users'>
